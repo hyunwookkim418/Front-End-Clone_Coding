@@ -46,7 +46,7 @@ Utilizing various components and classes of Bootstrap and understanding Bootstra
   margin: 0 0.5rem;
 }
 ```
-Built a responsive layout using Bootstrap Grid<br>
+* Built a responsive layout using Bootstrap Grid <br>
 (Web Version)
 ![](https://i.imgur.com/Z8VL6OC.png)
  (Mobile Version) <br>
@@ -84,4 +84,4 @@ Built a responsive layout using Bootstrap Grid<br>
     </div>
 </div>
 ```
-Utilized Bootstrap classes to eliminate unnecessary CSS code duplication <br>
+* Utilized Bootstrap classes to eliminate unnecessary CSS code duplication <br>
