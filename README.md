@@ -85,3 +85,17 @@
 </div>
 ```
 * Utilized Bootstrap classes to eliminate unnecessary CSS code duplication <br>
+
+
+### Project 2: Building the Main Page of the Google Website
+
+* Demo: https://GoogleWebsite.hyunwookkim.repl.co
+
+### Development Goals 
+* To understand HTML and CSS grammar <br />
+* To enhance familiarity with HTML and CSS <br />
+
+### Technologies Used
+* HTML
+* CSS
+
