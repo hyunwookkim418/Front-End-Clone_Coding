@@ -6,7 +6,7 @@
 * Demo: https://louisvuittonwebsite.hyunwookkim.repl.co/#
 
 ### Development Goals 
-Utilizing various components and classes of Bootstrap and understanding Bootstrap Grid. Creating a responsive webpage using media queries.
+* Utilizing various components and classes of Bootstrap and understanding Bootstrap Grid. Creating a responsive webpage using media queries.
 
 ### Technologies Used
 * HTML
