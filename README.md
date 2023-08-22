@@ -84,3 +84,4 @@ Built a responsive layout using Bootstrap Grid<br>
     </div>
 </div>
 ```
+Utilized Bootstrap classes to eliminate unnecessary CSS code duplication <br>
